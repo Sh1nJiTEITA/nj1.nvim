@@ -1,0 +1,1 @@
+-- print("plugin/nj1.lua is working")
